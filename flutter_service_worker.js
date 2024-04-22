@@ -3,6 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< HEAD
 const RESOURCES = {".git/COMMIT_EDITMSG": "4c6f9758bde215c556ab130a45d38c9d",
 ".git/config": "d67424fcb72fecc37718149b13030631",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
@@ -82,6 +83,9 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "4c6f9758bde215c556ab130a45d38c9d",
 ".git/refs/remotes/origin/main": "7e5d211a18f458f6b5b2b9bccc1f1a73",
 "5ec55735": "d41d8cd98f00b204e9800998ecf8427e",
 "841eec8b": "d41d8cd98f00b204e9800998ecf8427e",
+=======
+const RESOURCES = {"841eec8b": "d41d8cd98f00b204e9800998ecf8427e",
+>>>>>>> fb48381c9a3584fcb6a514801748c76852de13eb
 "assets/AssetManifest.bin": "5c81740badfc40221695ad0352e2270f",
 "assets/AssetManifest.bin.json": "a6cbbe68e693dfef30c6bd840bbdd675",
 "assets/AssetManifest.json": "b297131bebbb3881ecde22bd55bdd6da",
@@ -107,9 +111,15 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "4c6f9758bde215c556ab130a45d38c9d",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+<<<<<<< HEAD
 "index.html": "f7e716982993dbc16c4cb032447a9aae",
 "/": "f7e716982993dbc16c4cb032447a9aae",
 "main.dart.js": "851b7696463722b4086450ec49748b16",
+=======
+"index.html": "8f7ec3df9ff1bab10937eb517431d9f0",
+"/": "8f7ec3df9ff1bab10937eb517431d9f0",
+"main.dart.js": "b6e79db75f44a26039b7cc3db2dca231",
+>>>>>>> fb48381c9a3584fcb6a514801748c76852de13eb
 "manifest.json": "d14fb362fabc41539d8bbf324e3ea4cc",
 "version.json": "c35ee24d258990a9d713da78cc1fa5e7"};
 // The application shell files that are downloaded before a service worker can

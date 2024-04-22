@@ -57907,7 +57907,12 @@ A.Bx.prototype={
 j(a){return"LocaleDataException: "+this.a},
 $ici:1}
 A.DC.prototype={
+<<<<<<< HEAD
 R(a){return new A.qI(new A.r2("Calendrier LaserHouse",null),"Calendrier LaserHouse 2",A.ae2(null,A.ajY(B.a_,B.RY),!0),B.ID,B.JR,null)}}
+=======
+R(a){var s="Calendrier LaserHouse"
+return new A.qI(new A.r2(s,null),s,A.ae2(null,A.ajY(B.a_,B.RY),!0),B.ID,B.JR,null)}}
+>>>>>>> fb48381c9a3584fcb6a514801748c76852de13eb
 A.r2.prototype={
 au(){return new A.v3(B.u)}}
 A.v3.prototype={
